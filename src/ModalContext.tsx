@@ -11,7 +11,7 @@ export interface Modal {
 const MODALS: Modal[] = [
   {
     id: 1,
-    isOpen: true,
+    isOpen: false,
     name: "main",
   },
 ]
